@@ -2,7 +2,7 @@
 An UserBot for telegram, created in python.
 # Features
 AntiBot
-Anti Arab and Russian Language
+Anti arab and cyrillic
 # Installation
 $ pip3 install telethon
 $ python3 bot.py
